@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|c:\\users\\hp\\onedrive\\desktop\\access modifiers, encapsulation 2\\access modifiers, encapsulation 2\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|solutionrelative:access modifiers, encapsulation 2\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|c:\\users\\hp\\onedrive\\desktop\\access modifiers, encapsulation 2\\access modifiers, encapsulation 2\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|solutionrelative:access modifiers, encapsulation 2\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|c:\\users\\hp\\onedrive\\desktop\\access modifiers, encapsulation 2\\access modifiers, encapsulation 2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|solutionrelative:access modifiers, encapsulation 2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|c:\\users\\hp\\onedrive\\desktop\\access modifiers, encapsulation 2\\access modifiers, encapsulation 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3265DB-014D-4B32-929B-7DB931D0A8A0}|Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2.csproj|solutionrelative:access modifiers, encapsulation 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Models\\Assistant.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation 2\\Models\\Assistant.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Models\\Assistant.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation 2\\Models\\Assistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:52:15.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation 2\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Models\\Manager.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation 2\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:50:56.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation 2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Models\\Employee.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation 2\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:52:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Program.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Access Modifiers, Encapsulation 2\\Access Modifiers, Encapsulation 2\\Program.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:50:05.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
